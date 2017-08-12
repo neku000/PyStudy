@@ -1,0 +1,49 @@
+language  | title
+--------- | ---------
+Japanese  | [招待講演 / Invited Talk] Pythonを含む多くのプログラミング言語を扱う処理フレームワークとパターン
+Japanese  | Blockchain for Pythonistas
+Japanese  | マイクロサービスを利用する側のパフォーマンス向上策
+Japanese  | 週末サイエンティストのススメ
+Japanese  | Pythonで作るWebクローラ入門
+Japanese  | Pythonで作るTiny DAW (Digitai Audio Workstation)
+Japanese  | たった一ファイルの python スクリプトから始める OSS 開発入門
+Japanese  | データ分析スクリプトのツール化入門(GUI付与・EXE化)
+English   | Mezzanine, the best CMS on Python
+English   | Getting started with chatops in python with errbot
+Japanese  | ニューラルネットワークのフレームワークであるChainerで始める対話Botの作成
+English   | Building a Simple Japanese Content-Based Recommender System in Python
+Japanese  | 数学的基礎から学ぶ Deep Learning
+Japanese  | 仕事で使うちょっとしたコードをOSSとして開発メンテしていく - Django Redshift Backend の開発
+Japanese  | パッケージングを支える技術
+Japanese  | 基礎から学ぶWebアプリケーションフレームワークの作り方
+Japanese  | Pythonistaよ、Pythonistaを知っているか　〜こんなの欲しかった！ iOSアプリ開発環境Pythonista〜
+Japanese  | 複数の言語からなるプロジェクトを作るということ
+Japanese  | 無料でできる、Cloud9上で開発してHerokuにデプロイする手順を共有します
+English   | How Python helped create the visual effects for an Emmy nominated TV show
+Japanese  | [招待講演 / Invited Talk] 確率的ニューラルネットの学習と Chainer による実装
+Japanese  | Robot Frameworkでブラウザテストやってみた話
+Japanese  | Pythonではじめるfinance hack入門
+English   | You Might Not Want Async (in Python)
+Japanese  | Pythonでpyftpdlibを使ってFTPサーバーを作る際に使ったテクニックの紹介
+Japanese  | PythonでもPythonじゃなくても使える汎用的なMicroservice実行環境
+Japanese  | f2pyとmatplotlibを用いたブラウン粒子動力学のリアルタイム可視化 
+Japanese  | Pythonで実現する4コマ漫画の分析・評論
+Japanese  | HTTPプロクシライブラリproxy2の設計と実装
+Japanese  | Raspberry Piで日本の子供たちにプログラミングのパッションを伝えよう
+English   | Deep Learning with Python & TensorFlow
+Japanese  | ビッグデータとPythonではじめる野球の統計分析
+Japanese  | Pythonで入門するApache Spark
+English   | import community
+English   | Building Distributed System with Celery on Docker Swarm
+Japanese  | Python を支える技術: モジュール・インポートシステム編
+Japanese  | Plone5のOSSにおける進化と適応 〜 PyCon (US) 2016 Keynoteの日本語での再演
+Japanese  | メタプログラミングPython
+Japanese  | はじめて作るDjangoプラグイン
+Japanese  | PythonではじめるOpenAI Gymトレーニング
+Japanese  | pandasによる時系列データ処理
+English   | Building An Interpreter In RPython
+Japanese  | Pausable Unittest on EFI Stackless Python
+English   | Building a data preparation pipeline with Pandas and AWS Lambda
+Japanese  | Python データーベースドライバーの作り方
+Japanese  | 型ヒントについて考えよう!
+English   | Sleepy: How to suspend and resume your cpython process from inside
